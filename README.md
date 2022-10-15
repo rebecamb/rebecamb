@@ -1,4 +1,4 @@
-### <h1> Oie, eu sou a Rebeca! Tudo bem com você? </h1>
+### <h1> Oie, eu sou a Rebeca! </h1>
 
 
 - 🌱 Estudando HTML5 e CSS3

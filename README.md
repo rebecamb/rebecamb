@@ -1,7 +1,7 @@
 ### <h1> Oie, eu sou a Rebeca! </h1>
 
 
-- 🌱 Estudando HTML5 e CSS3
+- 🌱 Estudando HTML5, CSS3 e Java!
 
 <div align=center> 
   <a href = "https://github.com/rebecamb">

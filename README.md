@@ -3,12 +3,7 @@
 
 - 🌱 Estudando HTML5, CSS3 e Java!
 
-<div align=center> 
-  <a href = "https://github.com/rebecamb">
-  <img width = "42%" src =  "https://github-readme-stats.vercel.app/api?username=rebecamb&show_icons=true&theme=bear&ude_all_commits=true&count_private=true"/>
-  <img width = "50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rebecamb&layout=compact&langs_count=7&theme=bear"/>
-</div> 
- 
+
  ##
   
  <div style="display: inline_block"><br>
